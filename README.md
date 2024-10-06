@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Roman</h1>
 <h3 align="center">A passionate backend developer from Russia</h3>
-<h3 align="center"><a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=26&pause=1000&color=365292&center=true&vCenter=true&random=true&width=435&separator=%3D&lines=std%3A%3Acout+%3C%3C+%22Hello+World!%22;%3Dprint(%22Hello+World!%22)%3Dprintf(%22Hello+World%22);%3DprintIn(%22Hello+World%22)%3Ddisp('Hello+World');%3Dputs+'Hello+World'%3Dcat('Hello+World')%3Dconsole.log(%22Hello+World%22);" alt="Typing SVG" /></a></h3>
+<h1 align="center">
+    <img src="[https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=7000&lines=This+is+my+Black+Parade+🥈+🫲;](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=26&pause=1000&color=365292&center=true&vCenter=true&random=true&width=435&separator=%3D&lines=std%3A%3Acout+%3C%3C+%22Hello+World!%22;%3Dprint(%22Hello+World!%22)%3Dprintf(%22Hello+World%22);%3DprintIn(%22Hello+World%22)%3Ddisp('Hello+World');%3Dputs+'Hello+World'%3Dcat('Hello+World')%3Dconsole.log(%22Hello+World%22);)" />
+    <img align="right" src="https://github.githubassets.com/images/mona-whisper.gif" />
+</h1>
 
-<h3 align="center"><a align="center">[![trophy](https://github-profile-trophy.vercel.app/?username=roman-tagirov&theme=algolia&row=1)](https://github.com/ryo-ma/github-profile-trophy)</a></h3>
+[![trophy](https://github-profile-trophy.vercel.app/?username=roman-tagirov&theme=algolia&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 📫 How to reach me **q3t8.business@list.ru**
 
