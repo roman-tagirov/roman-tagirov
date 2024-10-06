@@ -2,9 +2,7 @@
 <h3 align="center">A passionate backend developer from Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roman-tagirov&label=Profile%20views&color=b64f0e&style=flat" alt="roman-tagirov" /> </p>
-
-[![trophy]([https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S,AAA)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 - 📫 How to reach me **q3t8.business@list.ru**
 
 <h3 align="left">Connect with me:</h3>
