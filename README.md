@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roman-tagirov&label=Profile%20views&color=b64f0e&style=flat" alt="roman-tagirov" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roman-tagirov" alt="roman-tagirov" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 📫 How to reach me **q3t8.business@list.ru**
 
