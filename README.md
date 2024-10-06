@@ -26,6 +26,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=roman-tagirov&theme=algolia&row=1"></img>
 
 </div>
-
+<div align="center">
 <img align="center" src="https://komarev.com/ghpvc/?username=roman-tagirov&color=lightgrey">
-
+</div>
