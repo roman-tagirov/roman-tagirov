@@ -13,15 +13,15 @@
 <h2 align="center"> 📫 How to reach me **q3t8.business@list.ru || q3t8.business@mail.ru**</h1>
 <div align="center">
 <h1 align="center">Setup:</h1>
-<h2 align="center">🈁First monitor: HP 22m 21.5-inch Black</h2>
-    <h2 align="center">🈁Second monitor(main): Xiaomi Redmi Curved Display 30-inch Black</h2>
-    <h2 align="center">🈁Third monitor: Azerty DS-2401 23.8-inch Black</h2>
-    <h2 align="center">⌨️Keyboard: Redragon Fidd RGB</h2>
-    <h2 align="center">🖱️Mouse: Attack Shark X3 PAW3395</h2>
-    <h2 align="center">📼GPU: RTX3060TI</h2>
-    <h2 align="center">⬜CPU: Ryzen 5 7600X 6-Core</h2>
-    <h2 align="center">🟩RAM: 32GB</h2>
-    <h2 align="center">💦Water Cooling</h2>
+<h3 align="center">🈁First monitor: HP 22m 21.5-inch Black</h2>
+    <h3 align="center">🈁Second monitor(main): Xiaomi Redmi Curved Display 30-inch Black</h2>
+    <h3 align="center">🈁Third monitor: Azerty DS-2401 23.8-inch Black</h2>
+    <h3 align="center">⌨️Keyboard: Redragon Fidd RGB</h2>
+    <h3 align="center">🖱️Mouse: Attack Shark X3 PAW3395</h2>
+    <h3 align="center">📼GPU: RTX3060TI</h2>
+    <h3 align="center">⬜CPU: Ryzen 5 7600X 6-Core</h2>
+    <h3 align="center">🟩RAM: 32GB</h2>
+    <h3 align="center">💦Water Cooling</h2>
 </div>
 <div align="center">
     
