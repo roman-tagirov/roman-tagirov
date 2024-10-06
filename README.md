@@ -21,8 +21,6 @@
   <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=roman-tagirov&layout=compact&card*width=400&theme=algolia&row=1" />
 </a><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=roman-tagirov&theme=algolia&row=1&column=6" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=roman-tagirov&theme=algolia&row=1"></img>
 
 </div>
