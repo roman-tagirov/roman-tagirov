@@ -3,7 +3,7 @@
     <img align="right" src="https://github.githubassets.com/images/mona-whisper.gif" />
 </h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=roman-tagirov&theme=algolia&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=roman-tagirov&theme=algolia&row=1">
 
 - 📫 How to reach me **q3t8.business@list.ru || q3t8.business@mail.ru**
    
