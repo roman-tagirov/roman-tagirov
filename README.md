@@ -10,7 +10,7 @@
 
 <img>
 <p></p>
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 <h2 align="center"> 📫 How to reach me **q3t8.business@list.ru || q3t8.business@mail.ru**</h1>
 
 <div align="center">
