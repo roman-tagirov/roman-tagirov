@@ -12,7 +12,7 @@
 </div>
 <h2 align="center"> 📫 How to reach me **q3t8.business@list.ru || q3t8.business@mail.ru**</h1>
 <div align="center">
-<h1 align="center">Setup:</h1>
+<h2 align="center">Setup:</h1>
 <h3 align="center">🈁First monitor: HP 22m 21.5-inch Black</h2>
     <h3 align="center">🈁Second monitor(main): Xiaomi Redmi Curved Display 30-inch Black</h2>
     <h3 align="center">🈁Third monitor: Azerty DS-2401 23.8-inch Black</h2>
