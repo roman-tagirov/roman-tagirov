@@ -17,6 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roman-tagirov&theme=algolia&row=1&show_icons=true&locale=en&layout=compact" alt="roman-tagirov" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roman-tagirov&show_icons=true&locale=en&theme=algolia&row=1" alt="roman-tagirov" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=roman-tagirov&show_icons=true&locale=en&theme=algolia&row=1" alt="roman-tagirov" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=roman-tagirov&theme=algolia&row=1" alt="roman-tagirov" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roman-tagirov&theme=algolia&row=1" alt="roman-tagirov" /></p>
