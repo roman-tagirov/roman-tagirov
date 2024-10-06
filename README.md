@@ -10,8 +10,8 @@
 <div align="center">
     <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
 </div>
-<h2 align="center"> 📫 How to reach me **q3t8.business@list.ru || q3t8.business@mail.ru**</h1>
-
+<h2 align="center"> 📫 How to reach me **q3t8.business@list.ru || q3t8.business@mail.ru**</h2>
+<h3 align="center"> Working hours: 16:00-23:45 (Check local time on the left)</h3>
 <div align="center">
     
 [![Visit Count](https://count.getloli.com/get/@roman-tagirov?theme=rule34)](#)
