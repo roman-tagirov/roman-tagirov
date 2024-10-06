@@ -22,14 +22,14 @@
 [![Visit Count](https://count.getloli.com/get/@roman-tagirov?theme=rule34)](#)
 
 <a>
-  <img height=160 src="https://github-readme-stats.vercel.app/api?username=roman-tagirov&count*private=true&theme=swift&show*icons=true" />
+  <img height=160 src="https://github-readme-stats.vercel.app/api?username=roman-tagirov&count*private=true&theme=algolia&row=1&show*icons=true" />
 </a>
 <a>
-  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=roman-tagirov&layout=compact&card*width=400" />
+  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=roman-tagirov&layout=compact&card*width=400&theme=algolia&row=1" />
 </a><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=octopus058&theme=buefy&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=roman-tagirov&theme=algolia&row=1&column=6" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=octopus058"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=roman-tagirov&theme=algolia&row=1"></img>
 
 </div>
