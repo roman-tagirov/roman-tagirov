@@ -1,5 +1,5 @@
-<p align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=26&pause=1000&color=327651&center=true&random=true&width=435&separator=%3D&lines=std%3A%3Acout+%3C%3C+%22Hello+World!%22;%3Dprint(%22Hello+World!%22)%3Dprintf(%22Hello+World%22);%3DprintIn(%22Hello+World%22)%3Ddisp('Hello+World');%3Dputs+'Hello+World'%3Dcat('Hello+World')%3Dconsole.log(%22Hello+World%22);)](https://git.io/typing-svg)
-</p>
+<a align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=26&pause=1000&color=327651&center=true&random=true&width=435&separator=%3D&lines=std%3A%3Acout+%3C%3C+%22Hello+World!%22;%3Dprint(%22Hello+World!%22)%3Dprintf(%22Hello+World%22);%3DprintIn(%22Hello+World%22)%3Ddisp('Hello+World');%3Dputs+'Hello+World'%3Dcat('Hello+World')%3Dconsole.log(%22Hello+World%22);)](https://git.io/typing-svg)
+</a>
 
 <h1 align="center">Hi 👋, I'm Roman</h1>
 <h3 align="center">A passionate backend developer from Russia</h3>
