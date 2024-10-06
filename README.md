@@ -27,5 +27,5 @@
 
 </div>
 
-[![Visit Count Second Old](https://komarev.com/ghpvc/?username=roman-tagirov&color=lightgrey)](#)
+<img align="center" src="https://komarev.com/ghpvc/?username=roman-tagirov&color=lightgrey">
 
