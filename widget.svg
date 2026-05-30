@@ -58,7 +58,7 @@
   
   <!-- Profile image placeholder (replace with your actual image URL) -->
   <image x="18" y="18" width="118" height="184" preserveAspectRatio="xMidYMid slice" 
-         href="https://via.placeholder.com/118x184/333333/666666?text=Photo" 
+         href="https://raw.githubusercontent.com/roman-tagirov/roman-tagirov/main/profile.png" 
          clip-path="inset(0)">
     <!-- To use your real image, replace href with your image URL:
          href="https://raw.githubusercontent.com/roman-tagirov/roman-tagirov/main/profile.jpg"
