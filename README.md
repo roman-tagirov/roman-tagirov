@@ -3,10 +3,173 @@
     <img align="right" src="https://github.githubassets.com/images/mona-whisper.gif" />
 </h1>
 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=roman-tagirov&theme=algolia&row=1">
-   <a>
-  <img height=160 src="https://cxzcr.ru/widget.html" />
-</a>
+<svg width="620" height="220" viewBox="0 0 620 220" fill="none" xmlns="http://w3.org">
+  <defs>
+    <!-- Эффект черно-белого фото с повышенным контрастом -->
+    <filter id="grayscale-contrast">
+      <feColorMatrix type="matrix" values="0.33 0.33 0.33 0 0
+                                           0.33 0.33 0.33 0 0
+                                           0.33 0.33 0.33 0 0
+                                           0    0    0    1 0"/>
+      <feComponentTransfer>
+        <feFuncR type="linear" slope="1.18" intercept="-0.1"/>
+        <feFuncG type="linear" slope="1.18" intercept="-0.1"/>
+        <feFuncB type="linear" slope="1.18" intercept="-0.1"/>
+      </feComponentTransfer>
+    </filter>
+  </defs>
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://w3.org">
+      <style>
+        * { box-sizing: border-box; }
+        .widget-container {
+          width: 620px;
+          height: 220px;
+          margin: 0;
+          padding: 18px;
+          display: grid;
+          grid-template-columns: 118px 1fr;
+          gap: 16px;
+          overflow: hidden;
+          border: 1px solid rgba(255, 255, 255, 0.18);
+          background:
+            radial-gradient(circle at 82% 18%, rgba(192, 23, 32, 0.22), transparent 190px),
+            radial-gradient(circle at 18% 82%, rgba(159, 181, 199, 0.16), transparent 180px),
+            repeating-linear-gradient(180deg, transparent 0 34px, rgba(0, 0, 0, 0.54) 35px 38px, transparent 39px 70px),
+            linear-gradient(135deg, #191919, #050505);
+          color: #f2f2f2;
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+          position: relative;
+        }
+        .widget-container::before {
+          position: absolute;
+          inset: 0;
+          opacity: 0.26;
+          background:
+            linear-gradient(90deg, rgba(255, 255, 255, 0.06) 1px, transparent 1px),
+            linear-gradient(180deg, rgba(255, 255, 255, 0.045) 1px, transparent 1px);
+          background-size: 30px 30px;
+          content: "";
+          pointer-events: none;
+        }
+        .photo {
+          position: relative;
+          z-index: 1;
+          height: 182px;
+          overflow: hidden;
+          border: 1px solid rgba(255, 255, 255, 0.2);
+          background: #0b0b0b;
+        }
+        .photo img {
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+          filter: url(#grayscale-contrast);
+        }
+        .content {
+          position: relative;
+          z-index: 2;
+          display: grid;
+          align-content: start;
+          gap: 6px;
+        }
+        .kicker, .meta, .tags {
+          font-size: 11px;
+          font-weight: 700;
+          letter-spacing: 0.08em;
+          text-transform: uppercase;
+        }
+        .kicker { color: #c01720; }
+        h1 {
+          margin: 0;
+          font-size: 34px;
+          font-weight: 900;
+          line-height: 0.95;
+          letter-spacing: -0.02em;
+          color: #ffffff;
+        }
+        p {
+          max-width: 420px;
+          margin: 2px 0 4px 0;
+          color: #b7b7b7;
+          font-size: 13.5px;
+          line-height: 1.35;
+        }
+        .meta {
+          display: flex;
+          flex-wrap: wrap;
+          gap: 8px;
+          color: #9fb5c7;
+        }
+        .tags {
+          display: flex;
+          flex-wrap: wrap;
+          gap: 6px;
+          margin-top: 4px;
+        }
+        .tags span {
+          padding: 3px 6px;
+          border: 1px solid rgba(255, 255, 255, 0.16);
+          background: rgba(255, 255, 255, 0.06);
+          color: #d8d8d8;
+        }
+        .pulse {
+          position: absolute;
+          right: 16px;
+          bottom: 8px;
+          left: 152px;
+          z-index: 1;
+          height: 24px;
+          opacity: 0.38;
+          pointer-events: none;
+          overflow: hidden;
+        }
+        .pulse svg {
+          display: block;
+          width: 200%;
+          height: 100%;
+        }
+        /* Анимация бегущей линии пульса */
+        .pulse-path {
+          stroke-dasharray: 600;
+          stroke-dashoffset: 600;
+          animation: heartbeat 4s linear infinite;
+        }
+        @keyframes heartbeat {
+          to {
+            stroke-dashoffset: 0;
+          }
+        }
+      </style>
+      <div class="widget-container">
+        <div class="photo">
+          <img src="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAYACAIAAABn4K39AABhWmNhQlgAAGFaanVtYgAAAB5qdW1kYzJwYQARABCAAACqADibcQNjMnBhAAAAYTRqdW1iAAAAR2p1bWRjMm1hABEAEIAAAKoAOJtxA3VybjpjMnBhOmYxZGQ2NzE2LTk1ZGItNGQ5Mi1hNGMwLWUyNjMwM2RmNDU5NQAAABf9anVtYgAAAClqdW1kYzJhcwARABCAAACqADibcQNjMnBhLmFzc2VydGlvbnMAAAAJ0Wp1bWIAAAA7anVtZEDLDDK7ikidpwsq1vR/Q2kTYzJwYS5pY29uAAAAABhjMnNo1K3blKZtLWyDjdHwGMf8ggAAABdiZmRiAGltYWdlL3N2Zyt4bWwAAAAJd2JpZGI8c3ZnIHdpZHRoPSI3MTYiIGhlaWdodD0iNzE2IiB2aWV3Qm94PSIwIDAgNzE2IDcxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTUwOC43NDkgMzE3LjM5OUM1MTYuNzc3IDI4Ny4zMTQgNTA4Ljk9MSAyNTMuODg0IDQ4NS4zODkgMjMwLjI4MkM0NjEuNzg4IDIwNi42ODEgNDI4LjM2IDE5OC44OTUgMzk4LjI3MyAyMDYuOTIzQzM3Ni4yMzEgMTg0LjkyOCAzNDMuMzkgMTc0Ljk1NiAzMTEuMTQ4IDE4My41OTZDMjc4LjkwNiAxOTIuMjM0IDI1NS40NSAyMTcuMjkyIDI0Ny4zNiAyNDcuMzYxQzIxNy4yOTEgMjU1LjQ1MSAxOTIuMjMzIDI7OC45MSAxODMuNTk1IDMxMS4xNDlDMTQ5LjU3IDM0My4zOTEgMTg0LjkyNyAzNzYuMjMyIDIwNi45MjQgMzk4LjI3RDQxOTguODk2IDQyOC4zNTkgMjA2LjY4MyA0NjEuNzg5IDIzMC4yODQgNDg1LjM5MUMyNTMuODg1IDUwOC45OTIgMjg3LjMxMyA1MTYuNzc5IDMxNy40MDEgNTA4Ljc1QzMzOS40NDIgNTMwLjc0NSAzNzIuMjg2IDU0MC43MTcgNDA0LjUyNSA1MzIuMDc5QzQzNi43NjcgNTIzLjQ0MSA0NjAuMjIzIDQ5OC4zODQgNDY4LjMxMyA0NjguMzE1QzQ5OC4zODMgNDYwLjIyNCA1MjMuNDQgNDM2Ljc2NiA1MzIuMDc4IDA0LjUyNkM1NDAuNzE2IDM3Mi4yODUgNTMwLjc0NyAzMzkuNDQzIDUwOC43NDkgMzE3LjQwMlYzMTcuMzk5Wk00NzAuODk5IDI0NC43NzZDNDg2Ljg5MiAyNjAuNzcgNDkzLjQ4OCAyODIuNjAxIDQ5MC42ODcgMzAzLjQxMkw0MTUuNTc3IDI2MC4wNDZDNDEyLjQxMSAyNTguMjE4IDQwOC41MDkgMjU4LjIxODQgMDUuMzQ1IDI2MC4wNDZMMzE3LjQwMSAzMTAuODJWMjc3LjUyNkMzMTcuNDAxIDI3NS4xOTEgMzE4LjY1MiAyNzMuMDA1IDMyMC42NzYgMjcxLjgzN0wzODcuNjQ0IDIzMy4xNzRDNDE0LjE3OCAyMTguMzUzIDQ0OC4zNDYgMjIyLjIyMyA0NzAuOTAxIDI0NC43NzZINDcwLjg5OVpNMzU3LjgzNyAzMTEuMTQ0TDM5OC4yNzUgMzM0LjQ5MVYzODEuMTg1TDM1Ny44MzcgNDA0LjUzMkwzMTcuMzk4IDM4MS4xODVWMzM0LjQ5MUwzNTcuODM3IDMxMS4xNDRaTTI2NC43NzYgMjY5LjY5M0MyNjUuMjA3IDIzOS4zMDUgMjg1LjY0NCAyMTEuNjQ5IDMxNi40NTMgMjAzLjM5M0MzMzguMyAxOTcuNTQgMzYwLjUwNSAyMDIuNzQ0IDM3Ny41MTcgMjE1LjU3M0wzMDIuMDE0IDI1OC45MzdDMjk4Ljg0OCAyNjAuNzY0IDI5Ni44OTggMjY0LjE0NCAyOTYuODk4IDI2Ny43OThWMzY5LjM0NkwyNjguMDY1IDM1Mi42OTlDMjY2LjA0MyAzNTEuNTMxIDI2NC43NzYgMzQ5LjM1MyAyNjQuNzNzNiAzNDcuMDE3VjI2OS42OTFWMjY5LjY5M1pNMjAzLjM5MSAzMTYuNDU0QzIwOS4yNDQgMjk0LjYwOCAyMjQuODU0IDI3Ny45NzggMjQ0LjI3NiAyNjkuOTk5VjM1Ni43M0MyNDQuMjc2IDM2MC4zODQgMjQ2LjIyNiAzNjMuNzYzIDI0OS4zOTIgMzY1LjU5MUwzMzcuMzM3IDQxNi4zNjVMMzA4LjUwMyA0MzMuMDEzQzMwNi40ODEgNDM0LjE4MSAzMDMuOTYxIDQzNC4xODggMzAxLjkzOSA0MzMuMDJMMjM0Ljk3MSAzOTQuMzU3QzIwOC44NjggMzc4Ljc4OSAxOTUuMTM4IDM0Ny4yNjEgMjAzLjM5MSAzMTYuNDU0Wk0yNDQuNzc1IDQ3MC45QzIyOC43ODEgNDU0LjkwNiAyMjIuMTg2IDQzMy4wNzUgMjI0Ljk4NiA0MTIuMjY0TDMwMC4wOTYgNDU1LjYzQzMwMy4yNjMgNDU3LjQ1NyAzMDcuMTY0IDU3LjQ1NyAzMTAuMzI4IDQ1NS42M0wzOTguMjczIDQwNC44NTZWDQzOC4xNDlDMzk4LjI3MyA0NDAuNDg1IDM5Ny4wMjIgNDQyLjY3MSAzOTQuOTk3IDQ0My44MzlMMzI4LjAyOSA0ODIuNTAyQzMwMS40OTUgNDk3LjMyMiAyNjcuMzI3IDQ5My40NTIgMjQ0Ljc3MiA0NzAuOUgyNDQuNzc1Wk00NTAuODk3IDQ0NS45ODJDNDUwLjQ2NiA0NzYuMzcxIDQzMC4wMjkgNTA0LjAyNyAzOTkuMjIgNTEyLjI4M0MzNzcuMzczIDUxOC4xMzYgMzU1LjE2OCA1MTIuOTMyIDMzOC41NDcgNTAwLjEwMkw0MTMuNjU5IDQ1Ni43MzhDNDE2LjgyNiA0NTQuOTExIDQxOC43NzUgNDUxLjUzMiA0MTguNzc1IDQ0Ny44NzdWMzQ2LjMyOUw0NDcuNjA5IDM2Mi45NzdDNDQ5LjYzMSAzNjQuMTQ1IDQ1MC44OTcgMzY2LjMyMyA0NTAuODk3IDM2OC42NTlWNDQ1Ljk4NVY0NDUuOTgyWk01MTIuMjgyIDM5OS4yMjFDNTA2LjQyOSA0MjEuMDY4IDQ5MC44MTkgNDM3LjY5NyA3MS4zOTcgNDQ1LjY3NlYzNTguOTQ2QzQ3MS4zOTcgMzU1LjI5MiA0NjkuNDQ4IDM1MS45MTIgNDY2LjI4MSAzNTAuMDg1TDM3OC4zMzYgMjk5LjMxMUw0MDcuMTcgMjgyLjY2M0M0MDkuMTkyIDI4MS40OTUgNDExLjcxMiAyODEuNDg3IDQxMy43MzQgMjgyLjY1NUw0ODAuNzAyIDMyMS4zMThDNTA2LjgwNSAzMzYuODg3IDUyMC41MzYgMzY4LjQxNSA1MTIuMjgyIDM5OS4yMjFaIiBmaWxsPSJibGFjaCIvPjwvc3ZnPgAAAF5qdW1iAAAAUUp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuYWN0aW9ucy52MgAAAAAYbXNvdGZ3YXJlQWdlbnQiZG5hbWVpZ3B0LWltYWdlZ3ZlcnNpb25jMi4wcWNoYW5nZXNDb250ZW50AAAAAAtqdW1iAAAAQUp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuYWN0aW9ucy52MgAAAAAYbXNvdGZ3YXJlQWdlbnQiZG5hbWVpZ3B0LWltYWdlZ3ZlcnNpb25jMi4wcWNoYW5nZXNDb250ZW50AAAAAAs=" alt="Роман Тагиров" />
+        </div>
+        <div class="content">
+          <div class="kicker">cxzcr / middle web developer</div>
+          <h1>Роман Тагиров</h1>
+          <p>Веб-системы, автоматизация, парсинг данных, коммерческие проекты и IT-стартап Vexor.</p>
+          <div class="meta">
+            <span>Production focus</span>
+            <span>Commercial web</span>
+            <span>Vexor</span>
+          </div>
+          <div class="tags">
+            <span>Python</span>
+            <span>Web</span>
+            <span>Parsing</span>
+            <span>Automation</span>
+          </div>
+        </div>
+        <div class="pulse">
+          <svg viewBox="0 0 380 42" preserveAspectRatio="none">
+            <path class="pulse-path" d="M0 22 H62 L72 22 L78 8 L85 35 L94 22 H152 L164 22 L170 16 L177 27 L186 22 H246 L256 22 L264 4 L274 38 L286 22 H380" fill="none" stroke="#c01720" stroke-width="2" />
+          </svg>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
 <h1 align="center">Skills:</h1>
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 <div align="center">
